@@ -5,7 +5,7 @@ It works the same as the other version for Floppy-Bird, where it's mobile friedn
 
 Play the game in your browser:
 
-(placeholder)
+[(placeholder)](https://gooberheads6297.github.io/Floppy-Bird-PWA-App/)
 
 What the game offers:
 
