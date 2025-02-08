@@ -9,9 +9,10 @@ Play the game in your browser:
 
 What the game offers:
 
-You get to flop up and doan instead of having to fly! Who needs to fly if you can flop? thumbnail1 Not real in-game footage
+You get to flop up and doan instead of having to fly! Who needs to fly if you can flop?  
 
 ![thumbnail1](https://github.com/user-attachments/assets/4a38ddad-c6c9-4bd6-8323-98b33a0bda0d)
+*Not real in-game footage*
 
 Game now has a real score system! Just like any other knock off you could've found off the internet!
 
