@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floppy Bird</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: #000;
+        }
+        canvas {
+            display: block;
+        }
+    </style>
+    <link rel="manifest" href="/Floppy-Bird-PWA-App/manifest.json">
+</head>
+<body>
+    <canvas id="gameCanvas"></canvas>
+    <script src="floppy-bird.js"></script>
+    <script>
+        
+        if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/Floppy-Bird-PWA-App/service-worker.js')
+    .then(reg => console.log('Service Worker registered:', reg))
+    .catch(err => console.error('Service Worker registration failed:', err));
+}
+
+        </script>
+</body>
+</html>
