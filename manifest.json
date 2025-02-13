@@ -1,7 +1,7 @@
 {
     "name": "Floppy Bird",
     "short_name": "FloppyBird",
-    "start_url": "/Floppy-Bird-PWA-App/index.html",
+    "start_url": "/Floppy-Bird-Web-App/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
