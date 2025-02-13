@@ -7,12 +7,12 @@
     "theme_color": "#000000",
     "icons": [
       {
-        "src": "/Floppy-Bird-PWA-App/icons/icon192.png",
+        "src": "/Floppy-Bird-Web-App/icons/icon192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "/Floppy-Bird-PWA-App/icons/icon512.png",
+        "src": "/Floppy-Bird-Web-App/icons/icon512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
