@@ -14,7 +14,7 @@
             display: block;
         }
     </style>
-    <link rel="manifest" href="/Floppy-Bird-PWA-Build/manifest.json">
+    <link rel="manifest" href="/Floppy-Bird-Web-App/manifest.json">
 </head>
 <body>
     <canvas id="gameCanvas"></canvas>
@@ -22,7 +22,7 @@
     <script>
         
         if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/Floppy-Bird-PWA-Build/service-worker.js')
+  navigator.serviceWorker.register('/Floppy-Bird-Web-App/service-worker.js')
     .then(reg => console.log('Service Worker registered:', reg))
     .catch(err => console.error('Service Worker registration failed:', err));
 }
